@@ -1,4 +1,6 @@
 # titanic-project
+
+
 Given some data of 891 people in training set . This project predict the survival of other 418 peoples given in test set.
  Use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
  The sinking of the Titanic is one of the most infamous shipwrecks in history.
